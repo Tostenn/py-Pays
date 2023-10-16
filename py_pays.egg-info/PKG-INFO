@@ -1,3 +1,17 @@
+Metadata-Version: 2.1
+Name: py-pays
+Version: 1.0.2
+Summary: py-Pays est un programme ecris en python, qui permet d efferctuer des traitements sur les information relatif au pays
+Home-page: https://github.com/Tostenn/py-Pays
+Author: kouya tosten
+Author-email: kouyatosten@gmail.com
+Maintainer: kouya tosten
+License: LICENSE MIT
+Keywords: pays,,traitement,,donnés,,country,,big data,,analysis,,treatment
+Classifier: License :: OSI Approved :: MIT License
+Description-Content-Type: text/markdown
+License-File: LICENCE
+
 # py-pays
 **py-Pays** est un programme ecris en python, qui permet d'efferctuer des traitements sur les information relatif au pays
 
