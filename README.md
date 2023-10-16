@@ -26,7 +26,7 @@
 # Installation
 tres simple à installer exercuter cette et la magie opére seule 
 ```
-pip install pays
+pip install py-pays
 ```
 > `important` <br>
 aprés l'installation du **package** vous devez télecharger **base de donnée** [ici](https://github.com/Tostenn/py-Pays/tree/main/Driver) et la mettre dans le **repertoire courant** de votre project cette **base de donnée** est un **driver** du **package**<br>
@@ -45,7 +45,7 @@ il existe deux **Driver** pour le **package**
 from pays import pays as p
 
 # nouvelle instance de pays
-pays = p.Pays()
+pays = p.Pays(driver="driver")
 
 # faire une requête pour récupérer le pays Côte d'ivoire
 civ = pays.query('> civ')
